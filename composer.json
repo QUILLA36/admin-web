@@ -1,0 +1,6 @@
+{
+    "name": "lenovo/product-admin-master",
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.1"
+    }
+}
